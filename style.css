@@ -1,0 +1,71 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #8918a1;
+  margin: 0;
+}
+div{
+  text-align: center;
+}
+a {
+  color: #10da39;
+}
+
+nav {
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "papyrus", fantasy;
+  color: #ff401f;
+  border: 2px solid #000000;
+  background-color: #2d498b;
+  margin-left: 380px;
+  margin-right: 380px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 45px;
+  color: #3f8340;
+  border: 2px solid #000000;
+  background-color: #7eeccd;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.fiesta{
+  width: 100%;
+  aspect-ratio: 1;
+}
+.gif{
+  width: 250px;
+}
+.foto{
+  width: 550px;
+}
+h3 {
+  font-size: 35px;
+}
+.logo{
+  width: 80px;
+}
+p {
+  font-size: 20px;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  color: #ffffff;
+}
+
+ul {
+  text-align: left;
+  list-style-type: square;
+  margin-left: 550px;
+  padding: 0px;
+  font-size: 20px;
+  color: #ffffff;
+}
